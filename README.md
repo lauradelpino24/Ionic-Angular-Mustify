@@ -17,4 +17,14 @@ UNA VEZ OBTENIDO EL TOKEN ES NECESARIO ACTUALIZARLO EN EL SERVICIO DE LA APLICAC
 Bien, comencemos. El home básicamente recoge los datos de la API y los integra en el componente tarjetas:
 
 ![img-home](https://github.com/lauradelpino24/Ionic-Angular-Mustify/blob/master/img-gif-for-readme/home.png)
+![gif-home](https://github.com/lauradelpino24/Ionic-Angular-Mustify/blob/master/img-gif-for-readme/home.gif)
 
+Ahora, pasamos al search. Simplemente tiene un buscador, poniendo el nombre de un cantante o grupo. Te mostrará los resultados, además puedes pulsar en el para que te muestre sus canciones.
+
+![img-search](https://github.com/lauradelpino24/Ionic-Angular-Mustify/blob/master/img-gif-for-readme/search.png)
+![gif-](https://github.com/lauradelpino24/Ionic-Angular-Mustify/blob/master/img-gif-for-readme/search.gif)
+
+Y por último, la página del artista. Donde como ya dije antes, puedes encontrar las canciones más famosas (Top tracks) del artista.
+
+![img-artista](https://github.com/lauradelpino24/Ionic-Angular-Mustify/blob/master/img-gif-for-readme/artista.png)
+![gif-artista](https://github.com/lauradelpino24/Ionic-Angular-Mustify/blob/master/img-gif-for-readme/artist.gif)

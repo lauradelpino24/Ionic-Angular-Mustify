@@ -7,5 +7,5 @@ La app consiste en 3 páginas:
   - Una página de artista, donde podremos encontrar las canciones de dicho artista.
 
 En primer lugar, veremos el home:
-https://github.com/lauradelpino24/Ionic-Angular-Mustify/blob/master/img-gif-for-readme/home.png
-https://github.com/lauradelpino24/Ionic-Angular-Mustify/blob/master/img-gif-for-readme/home.gif
+(https://github.com/lauradelpino24/Ionic-Angular-Mustify/blob/master/img-gif-for-readme/home.png)
+(https://github.com/lauradelpino24/Ionic-Angular-Mustify/blob/master/img-gif-for-readme/home.gif)

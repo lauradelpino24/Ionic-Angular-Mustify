@@ -1,0 +1,7 @@
+<ion-card class="bor">
+    <ion-card-header (click)="verArtista( item )" *ngFor="let item of items">
+    <img [src]="item.images | noimage" alt="Card image cap">
+      <ion-card-subtitle *ngFor="let artista of item.artists">{{ artista.name }}</ion-card-subtitle>
+      <ion-card-title>{{ item.name }}</ion-card-title>
+    </ion-card-header>
+</ion-card>

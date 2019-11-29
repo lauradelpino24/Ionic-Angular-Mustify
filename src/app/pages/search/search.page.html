@@ -1,0 +1,14 @@
+
+
+<app-navbar></app-navbar>
+
+<ion-content color="secondary">
+  <div class="row">
+    <div class="col">
+      <ion-input #termino type="text" (keyup)="buscar(termino.value)" class="borIN"
+        placeholder="Buscar artista..."></ion-input>
+    </div>
+  </div>
+
+  <app-tarjetas  [items]="artistas"></app-tarjetas>
+</ion-content>

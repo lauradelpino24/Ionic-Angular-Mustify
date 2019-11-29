@@ -1,0 +1,13 @@
+
+  <app-navbar></app-navbar>
+
+<ion-content class="ion-padding">
+
+  <div *ngIf="error">
+    <h3>Error</h3>
+    <p>
+      {{ mensajeError }}
+    </p>
+  </div>
+  <app-tarjetas [items]="nuevasCanciones"></app-tarjetas>
+</ion-content>

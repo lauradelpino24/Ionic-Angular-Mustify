@@ -29,3 +29,6 @@ Además, contiene un botón del volver para navegar de nuevo al buscador.
 
 ![img-artista](https://github.com/lauradelpino24/Ionic-Angular-Mustify/blob/master/img-gif-for-readme/artista.png)
 ![gif-artista](https://github.com/lauradelpino24/Ionic-Angular-Mustify/blob/master/img-gif-for-readme/artist.gif)
+
+
+VIDEO EXPLICATIVO: https://youtu.be/e962GMWvW0M

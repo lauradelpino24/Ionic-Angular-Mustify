@@ -7,7 +7,7 @@ La app consiste en 3 páginas:
   - Una página de artista, donde podremos encontrar las canciones de dicho artista.
 
 En primer lugar: hay que actualizar el token de Spotify, ya que tan sólo dura 1h.
-Para generar el token, es necesario hacer una peticion POST a https://accounts.spotify.com/api/token poniendo un client_id y client_secret propio, que puedes obtener registrandonte en https://developer.spotify.com/dashboard/.
+Para generar el token, es necesario hacer una peticion POST a https://accounts.spotify.com/api/token poniendo un client_id y client_secret propio, que puedes obtener registrándote en https://developer.spotify.com/dashboard/.
 Para ello uso PostMan como muestro en la siguiente imagen:
 
 ![img-postman](https://github.com/lauradelpino24/Ionic-Angular-Mustify/blob/master/img-gif-for-readme/postman.png)
